@@ -139,10 +139,10 @@ The project brings together the main concepts from the first six modules into a 
 ```text
 Machine-learning-zoomcamp/
 │
-├── Homework1/
-├── Homework2/
-├── Homework3/
-├── Homework4/
+├── Homework1.ipynb
+├── Homework2.ipynb
+├── Homework3.ipynb
+├── Homework4.ipynb
 ├── Homework5/
 ├── Homework6/
 │
